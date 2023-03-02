@@ -1,5 +1,5 @@
 ---
-tags: Deutsch
+tags: german
 title: Das Geschlecht der Nomen
 
 ---

@@ -1,5 +1,5 @@
 ---
-tags: coursera-quiz
+tags: coursera
 title: Introduction to Classical Music
 
 ---

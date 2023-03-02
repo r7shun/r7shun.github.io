@@ -56,7 +56,7 @@
                 {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
             {%- else -%}
                     {%- assign post = site.posts | where: 'title',title -%}
-                    {%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 200 | newline_to_br -%}
+                    {%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 150 | newline_to_br -%}
                     {%- if site.preferences.pagepreview.enabled -%}
                         {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
                     {%- else -%}
@@ -109,7 +109,7 @@
                 {%- if url contains "transclude" -%}
                     {%- if site.preferences.sidenotes.enabled -%}
                         {%- assign post = site.posts | where: 'title',title -%}
-                        {%- assign excerpt = post[0].content | strip_html | truncate: 280 -%}
+                        {%- assign excerpt = post[0].content | strip_html | truncate: 150 -%}
                         {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: noteType | append: '"><a href="' | append: post[0].url  | append: '"> <span style="background-color: #ffffc4; color: #555;">Transclusion</span><br/><b>' | append: title | append: '</b><br/>' | append: excerpt | append: '</a></span>' -%}
                     {%- endif -%}
                 {%- else -%}
