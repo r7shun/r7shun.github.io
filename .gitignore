@@ -1,0 +1,9 @@
+_site
+_protected
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+# vendor
+.DS_Store
+.bundle/
+node_modules/
