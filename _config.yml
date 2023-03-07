@@ -126,6 +126,7 @@ plugins:
   - jekyll-feed 
   - jekyll-sitemap 
   - jekyll-tidy
+  - jekyll-spaceship
 
 # Disqus Comments
 disqus:
