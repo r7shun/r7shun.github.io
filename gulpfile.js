@@ -82,7 +82,7 @@ function encrypt(password) {
           encryptedFrontMatter = 'encrypted: ' + hmac + encryptedBody,
           result = [ delimiter, frontMatter, '\n', encryptedFrontMatter, '\n', delimiter ];
 
-      file.contents = new Buffer(result.join(''));
+      file.contents = Buffer.from(result.join(''));
       this.push(file);
       return callback();
     }
