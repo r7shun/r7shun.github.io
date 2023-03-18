@@ -529,6 +529,67 @@ hr {
     text-decoration: underline;
 }
 
+#toc {
+    position: fixed;
+  top: 50px; 
+  left: 20px;
+  max-height: calc(100vh - 100px);  
+  overflow-y: auto;
+  z-index: 1;
+  width: 20%; 
+  font-family: Arial, sans-serif;
+  } 
+
+  .toc-level-1 {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0.3em;
+    text-indent: 0;
+  }
+  
+  .toc-level-2 {
+    font-size: 0.9m;
+    font-weight: bold;
+    margin-bottom: 0.3em;
+    text-indent: 1em;
+  }
+  
+  .toc-level-3 {
+    font-size: 0.8em;
+    margin-bottom: 0.3em;
+    text-indent: 2em;
+  }
+  
+  .toc-level-4 {
+    font-size: 0.7em;
+    margin-bottom: 0.3em;
+    text-indent: 3em;
+  }
+  
+  .toc-level-5 {
+    font-size: 0.6em;
+    margin-bottom: 0.3em;
+    text-indent: 4em;
+  }
+  
+  .toc-level-6 {
+    font-size: 0.5em;
+    margin-bottom: 0.3em;
+    text-indent: 5em;
+  } 
+  
+  #toc a {
+    display: block;
+  }
+  
+  /* Full width for smaller screens,  Reset left position to avoid overlapping with other columns  */
+  @media screen and (max-width: 800px) {
+    #toc {
+      display: none;
+        }
+    } 
+   
+  
 
 /* Common custom components between Main Site and Notes: Searchbar, Backbutton, ContentBox, Related Posts/Notes, Copyright,  */
 
