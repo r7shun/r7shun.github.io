@@ -1,18 +1,19 @@
 ---
 title: Root Hisense A7CC and install google frames
 tags: tutorial
-status: Ongoing
 ---
 
 Reference:
     1. [CVE-2022-38694 Unlook Bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
     2. [Hisense A7CC Full Google Rooting guide](https://www.reddit.com/r/eink/comments/15vqik0/hisense_a7cc_full_google_rooting_guide/?share_id=GuK6Bd5LhSMONrfxtXMrY&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
 
-在一下午的折腾后终于搞定了谷歌框架。。国产安卓机真是太麻烦了（然后发现由于安全问题ubs和postfinance app都无法在rooted设备上使用orz）
+在一下午的折腾后终于搞定了谷歌框架。。国产安卓机真是太麻烦了[[然后发现由于安全问题ubs和postfinance app都无法在rooted设备上使用orz::rsn]]
 
-TomKing的WIKI实在是太简洁了，幸好reddit有稍微全一点的介绍，但是中间还是缺了很多东西全靠猜。。。
+TomKing的WIKI过于简洁，幸好reddit有稍微全一点的介绍，但是中间还是缺了很多东西全靠猜。。。
 
 记录一下完整破解流程
+
+[[警告！Root操作会抹掉所有数据，务必提前备份::highlight]]
 
 需要工具（以后链接过期的话自行谷歌）：
 1. spd_dump 去release页面下载[hisense_a7cc.zip](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases)
