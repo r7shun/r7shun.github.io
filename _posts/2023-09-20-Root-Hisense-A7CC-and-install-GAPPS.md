@@ -7,7 +7,7 @@ Reference:
     1. [CVE-2022-38694 Unlook Bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
     2. [Hisense A7CC Full Google Rooting guide](https://www.reddit.com/r/eink/comments/15vqik0/hisense_a7cc_full_google_rooting_guide/?share_id=GuK6Bd5LhSMONrfxtXMrY&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
 
-在一下午的折腾后终于搞定了谷歌框架。。国产安卓机真是太麻烦了[[然后发现由于安全问题ubs和postfinance app都无法在rooted设备上使用orz::rsn]]
+折腾一下午后终于搞定了谷歌框架。。国产安卓机真是太麻烦了[[然后发现由于安全问题ubs和postfinance app都无法在rooted设备上使用orz::rsn]]
 
 TomKing的WIKI过于简洁，幸好reddit有稍微全一点的介绍，但是中间还是缺了很多东西全靠猜。。。
 
