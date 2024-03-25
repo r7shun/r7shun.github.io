@@ -3,7 +3,7 @@ title: 生物图鉴
 tags: trivia
 ---
 
-What a strange animal! Notes for「天地創造デザイン部」
+What a strange animal! Notes for「天地創造デザイン部」 Biological Encyclopedia / bio-illustration
 
 # 常年蹲着的鸟 -- 企鹅
 
