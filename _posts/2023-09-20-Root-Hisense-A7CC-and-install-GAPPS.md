@@ -2,6 +2,7 @@
 title: Root Hisense A7CC and install google frames
 tags: tutorial
 comments: true
+
 ---
 
 Reference:

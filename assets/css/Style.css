@@ -1501,4 +1501,14 @@ label.margin-toggle:not(.sidenote-number) {
 }
 }
 
-
+/* 应用于中文文章的特殊字体样式 */
+html[lang="zh"] body {
+    font-family: 'Noto Serif SC', serif !important;
+}
+/* 
+html[lang="zh"] h1, 
+html[lang="zh"] h2,  */
+html[lang="zh"] p, 
+html[lang="zh"] li {
+    font-family: 'Noto Serif SC', serif !important;
+}

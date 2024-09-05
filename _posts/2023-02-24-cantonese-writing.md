@@ -1,6 +1,7 @@
 ---
 title: 香港人是怎么学会火星文般的粵語白話文的? 
 tags: wonder-why
+language: zh
 ---
 
 How can people speak cantonese learn to write those mysterious characters that doesn't exist in Mandarian (specifically, traditional chinese)？

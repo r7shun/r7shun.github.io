@@ -2,6 +2,7 @@
 title: 赤子铭
 tags: essay
 comments: true
+language: zh
 ---
 
 &emsp;&emsp;刷到个帖子叫那些背下来一辈子都忘不掉的小众内容” 于是想起来赤子之钟铭文
