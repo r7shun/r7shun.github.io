@@ -1,6 +1,7 @@
 ---
 title: The key component of doing a PHD
 tags: excerpt
+comments: true
 ---
 
 

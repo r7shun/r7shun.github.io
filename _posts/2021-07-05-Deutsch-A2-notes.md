@@ -1,6 +1,7 @@
 ---
 tags: german
 title: Deutsch A2 Learning Notes
+comments: true
 ---
 
 [[Please open with PC or mac，~~mobile phones~~ can not display sidenote，marginnote，flashcards etc. correctly ::highlight]]

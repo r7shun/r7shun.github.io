@@ -1,7 +1,7 @@
 ---
 tags: german
 title: Das Geschlecht der Nomen
-
+comments: true
 ---
 
 > Notes on [DER, DIE oder DAS? Regeln für Artikel │Perfektes Deutsch lernen](https://www.youtube.com/watch?v=5Vj7giLAiHk)

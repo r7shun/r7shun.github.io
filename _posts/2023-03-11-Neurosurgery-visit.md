@@ -2,6 +2,7 @@
 title: Clinical Visits -- Neurosurgery
 tags: insights
 # layout: encrypted
+comments: true
 ---
 
 # Casual Q&A with Dr. med. Sivani Sivanrupan
