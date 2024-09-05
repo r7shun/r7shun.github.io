@@ -59,7 +59,7 @@ user:
   name: Shun
   bio: AIM Master student. INTP.
   email: shunyu.wu7@gmail.com
-  photo: /assets/img/profile.png
+  photo: /assets/img/profile.jpg
   # alt_link: rgvr.me
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
