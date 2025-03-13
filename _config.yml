@@ -57,7 +57,7 @@ user:
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
   name: Shun
-  bio: Waiting JFind.. INTP.
+  bio: JFind->JRest?
   email: shunyu.wu7@gmail.com
   photo: /assets/img/profile.jpg
   # alt_link: rgvr.me
@@ -155,6 +155,8 @@ defaults:
       permalink: /posts/:title
       content-type: post
 
+jekyll_auth:
+  password: "0529"  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
