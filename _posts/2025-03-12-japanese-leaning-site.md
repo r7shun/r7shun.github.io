@@ -41,3 +41,9 @@ language: jp
 8. [JP-MIRAIポータル](https://portal.jp-mirai.org/ja/study/s/japanese/free-online-japanese-language-class)
    
    官民協力して作っている安心・安全に日本で働き・暮らす為の総合サイト。
+
+9. [とある男が授業をしてみた](https://www.youtube.com/@toaruotoko)
+    
+    宝藏youtuber（日本版khan academy）, 初衷是为了被霸凌/不登校的孩子制作的在家里也能学的网络课程。内容包含数学、理科、社会（历史、地理、公民）、国语、英语。虽然是面向中学生的课程，但是也很适合外国人对日常识扫盲。葉一先生的板书很干净漂亮，语速适中。
+
+    [博客主页](https://ameblo.jp/katekyo-children/) 無料で小学生～高校生までの授業を配信しています。
